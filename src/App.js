@@ -9,7 +9,7 @@ import Channels from './components/Channels'
 import Messages from './components/Messages'
 
 // ABIs
-import Dappcord from './abis/Dappcord.json'
+import Dappcord from './abis/Dappcord.json';
 
 // Config
 import config from './config.json';
